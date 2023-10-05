@@ -112,7 +112,6 @@ GEM
 
 PLATFORMS
   unknown
-  x86_64-linux
 
 DEPENDENCIES
   html-proofer (~> 4.4)
