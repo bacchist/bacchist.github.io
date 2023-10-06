@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Optimizing Audio Data Transfer in Flask
-date: 2023-10-05 18:57 -0400
 ---
 # Optimizing Audio Data Transfer in Flask: From Binary to Base64 to UTF-8
 
